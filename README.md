@@ -96,14 +96,6 @@ terraform destroy
 
 ---
 
-🙏 Credits
-
-* **Task Design:** \[Company/Program Name]
-* **Documentation:** \[Your Name]
-* **Terraform Docs:** [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs)
-
----
-
 🎉 Bonus Challenges
 
 Try enhancing the project by modifying `main.tf` to:
